@@ -492,4 +492,4 @@ Amazon SNS and Amazon EventBridge serve different use cases in event-driven arch
 - [AWS Lambda Powertools](https://awslabs.github.io/aws-lambda-powertools-python/)
 
 ---
-*Return to [Main Study Guide](../aws_solutions_architect_pro_study_guide.md)* 
+*Return to [Main Study Guide](../aws_solutions_architect_study_guide.md)* 
