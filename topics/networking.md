@@ -556,4 +556,4 @@ Enterprise Network: 10.0.0.0/8
 - [VPC Design Best Practices Whitepaper](https://docs.aws.amazon.com/whitepapers/latest/aws-vpc-connectivity-options/aws-vpc-connectivity-options.pdf)
 
 ---
-*Return to [Main Study Guide](../aws_solutions_architect_pro_study_guide.md)* 
+*Return to [Main Study Guide](../aws_solutions_architect_study_guide.md)* 
