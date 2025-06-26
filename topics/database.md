@@ -489,4 +489,4 @@ When selecting a database service, consider:
 - [Amazon Aurora Documentation](https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/)
 
 ---
-*Return to [Main Study Guide](../aws_solutions_architect_pro_study_guide.md)* 
+*Return to [Main Study Guide](../aws_solutions_architect_study_guide.md)* 
