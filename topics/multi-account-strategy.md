@@ -819,4 +819,4 @@ AWS Control Tower is a service that provides a simplified way to set up and gove
 - [Tag Policies and SCPs in the AWS Organizations User Guide](https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_policies_scps_examples_tagging.html)
 
 ---
-*Return to [Main Study Guide](../aws_solutions_architect_pro_study_guide.md)* 
+*Return to [Main Study Guide](../aws_solutions_architect_study_guide.md)* 
