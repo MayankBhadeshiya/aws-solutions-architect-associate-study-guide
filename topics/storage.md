@@ -607,4 +607,4 @@ When selecting the appropriate AWS storage service, consider these key factors:
 - Linux or Windows compatible file systems
 
 ---
-*Return to [Main Study Guide](../aws_solutions_architect_pro_study_guide.md)* 
+*Return to [Main Study Guide](../aws_solutions_architect_study_guide.md)* 
