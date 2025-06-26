@@ -392,4 +392,4 @@ AWS provides a comprehensive suite of services for collecting, processing, analy
 - [Coursera: Architecting Solutions on AWS](https://www.coursera.org/learn/architecting-solutions-on-aws)
 
 ---
-*Return to [Main Study Guide](../aws_solutions_architect_pro_study_guide.md)* 
+*Return to [Main Study Guide](../aws_solutions_architect_study_guide.md)* 
