@@ -528,4 +528,4 @@ AWS offers multiple serverless compute options:
 - [AWS Compute Blog](https://aws.amazon.com/blogs/compute/)
 
 ---
-*Return to [Main Study Guide](../aws_solutions_architect_pro_study_guide.md)* 
+*Return to [Main Study Guide](../aws_solutions_architect_study_guide.md)* 
