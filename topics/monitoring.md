@@ -367,4 +367,4 @@ AWS offers two primary approaches to scaling:
 - [AWS Monitoring and Observability Blog](https://aws.amazon.com/blogs/mt/)
 
 ---
-*Return to [Main Study Guide](../aws_solutions_architect_pro_study_guide.md)* 
+*Return to [Main Study Guide](../aws_solutions_architect_study_guide.md)* 
